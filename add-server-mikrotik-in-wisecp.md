@@ -1,0 +1,46 @@
+# Add server (Mikrotik) in WISECP
+
+### Mikrotik WireGuard VPN module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-mikrotik-wireguard-vpn) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Mikrotik-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
+
+##### 1. Log in to the administrative area of your **[WISECP](https://puqcloud.com/link.php?id=78)**.
+
+#####   
+2. Go to module configuration.
+
+```
+Services -> Service Management -> Module Settings -> Other -> All Modules -> PUQ Mikrotik WireGuard VPN
+```
+
+[![image-1700485721333.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485721333.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485721333.png)
+
+[![image-1700485726951.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485726951.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485726951.png)
+
+[![image-1700485737918.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700485737918.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700485737918.png)
+
+[![image-1700908237215.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700908237215.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700908237215.png)
+
+#####  
+
+##### 3. In the opened page, click the '**Add Server**' button.
+
+[![image-1700912374796.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700912374796.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700912374796.png)
+
+##### 4. On the opened page, enter all the necessary information:
+
+- **Name**: Displayed name of the server.
+- **Maximum Number of Accounts**: The number of services that can be on this server.
+- **Server Group**: Optionally, choose the server group.
+- **DNS 1 and DNS 2**: are DNS servers that will be specified in the configuration of WireGuard clients.
+- **Assigned IP Addresses**: a list of IP addresses that will be assigned to WireGuard VPN clients, with each address on a new line.
+- **IP Address or Domain**: The address of the [MikroTik](https://mikrotik.com/) router you are connecting to.
+- **Username:** is the username for the account on [MikroTik](https://mikrotik.com/).
+- **Password:** is the password for the account on [MikroTik](https://mikrotik.com/).
+- Check the **SSL** box if you want to use SSL-encrypted connection. If necessary, specify the port and perform a connection test.
+
+[![image-1700912532762.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700912532762.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700912532762.png)
+
+#####  
+
+<div id="bkmrk--5"><div></div></div>

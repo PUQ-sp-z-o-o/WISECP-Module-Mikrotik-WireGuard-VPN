@@ -1,0 +1,62 @@
+# Service/Product configuration
+
+### Mikrotik WireGuard VPN module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-mikrotik-wireguard-vpn) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Mikrotik-WireGuard-VPN/) | [FAQ](https://faq.puqcloud.com/)
+
+<p class="callout info">If you do not have a **Service Group** where you want to place the new service, you need to create a new **Service Group**</p>
+
+##### 1. Log in to the administrative area of your **[WISECP](https://puqcloud.com/link.php?id=78)**.
+
+##### 2. Create New Service Group
+
+  
+Go to
+
+```
+Services -> Service Management -> Add Group
+```
+
+[![image-1700487270737.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700487270737.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700487270737.png)
+
+Enter all the necessary data and click the '**Create Group**' button.  
+[![image-1700487384497.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700487384497.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700487384497.png)
+
+##### 3. Adding a New Service  
+  
+
+
+Go to
+
+```
+Services -> our service group where you need to add the new service.
+```
+
+[![image-1700487595449.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700487595449.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700487595449.png)
+
+In the opened window, click the '**Create New Service**' button.
+
+[![image-1700487653237.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700487653237.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700487653237.png)
+
+On the opened page, enter all the necessary details for your new service and navigate to the '**Core**' tab.  
+  
+Select the '**PUQ Mikrotik WireGuard VPN**' module from the drop-down list of modules.
+
+[![image-1700914172218.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700914172218.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700914172218.png)
+
+##### 4. Fill in the configuration options according to your preferences.
+
+- **Server Group** is the group of servers from which a server will be chosen for provisioning the service
+- **WireGuard Server** is the name of the **WireGuard** server that was created in **[MikroTik](https://mikrotik.com/)**
+
+<p class="callout warning">**Attention:**   
+The **WireGuard Server field** is updated only after saving or adding the service.   
+You will need to revisit this section to select the **WireGuard Server** and save the service.   
+Additionally, the **WireGuard Server** must be created on all servers within the group.</p>
+
+- **Bandwidth Download** and **Bandwidth Upload** represent the connection speed that will be restricted by these parameters, in megabits per second, respectively.
+- **Comment Prefix** will be added at the comment in **[MikroTik](https://mikrotik.com/)**
+- **Persistent Keepalive** and **AllowedIPs:** parameters of configuration WireGuard clients
+- **Link to Instruction** Provide the link to the instruction for the service, and it will be displayed in the client area as a separate button
+- **Link to VPN Clients** Provide the link to the page for downloading VPN clients for the service, and it will be displayed in the client area as a separate button
+- <div>**Automatic Setup** Please activate for automatic installation of the order. Otherwise, administrator approval is required.</div>
