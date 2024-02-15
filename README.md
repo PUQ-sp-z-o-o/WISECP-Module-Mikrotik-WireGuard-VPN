@@ -44,7 +44,7 @@ Simplify VPN integration with Mikrotik WireGuard WHMCS module.
 
 ### Screenshot of the client area
 
-[![image-1700907162847.png](https://doc.puq.info/uploads/images/gallery/2023-11/scaled-1680-/image-1700907162847.png)](https://doc.puq.info/uploads/images/gallery/2023-11/image-1700907162847.png)
+![image](https://github.com/PUQ-sp-z-o-o/WISECP-Module-Mikrotik-WireGuard-VPN/assets/81689153/e926e60b-a77f-45d1-976f-682b756748e5)
 
 ### Screenshot of the Admin area
 
