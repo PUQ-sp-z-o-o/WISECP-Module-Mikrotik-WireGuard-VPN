@@ -31,6 +31,7 @@ Simplify VPN integration with Mikrotik WireGuard WHMCS module.
 - Delete users
 - Change Package
 - VPN connection status
+- VPN interface reboot function (to reset a frozen connection)
 - Text and QR code configuration types
 
 ### Available options in the client panel:
@@ -41,6 +42,7 @@ Simplify VPN integration with Mikrotik WireGuard WHMCS module.
 - QR code for WireGuard configuration
 - VPN connection status
 - Text and QR code configuration types
+- VPN interface reboot function (to reset a frozen connection)
 
 ### Screenshot of the client area
 
